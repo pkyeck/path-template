@@ -1,0 +1,18 @@
+{
+  "author": "Matthew Sadler <mat@sourcetagsandcodes.com>",
+  "name": "mini-unit",
+  "description": "xUnit style test cases, suites, and runner for Node's assert module.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/matsadler/mini-unit",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matsadler/mini-unit.git"
+  },
+  "main": "index",
+  "engines": [
+    "node"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": ["xUnit", "unit", "test", "testing"]
+}
